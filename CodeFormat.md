@@ -1,12 +1,12 @@
 Example for formating code\
 Classes at PascalCase\
-Constructors, Functions and Variables at camalCase\
+Constructors, Functions and Variables at camalCase
 
 Functions never should return NULL, only some value, check pattern "Special Case";\
 All functions must be short (three or maximum 10 strokes);\
 Don't process exceptions in code logic (DON'T USE CODE OF ERRORS, USE ONLY UNCHECKED EXCEPTIONS), use try/catch blocks and separate it to new function;\
 Don't create excess whitespaces, before/after/in the end of class/function/variable;\
-All code format find in book "Clean code" - Martin Fowler;\
+All code format find in book "Clean code" - Martin Fowler;
 
     public class TaskModule() {
       private InputStream xmlLoader;
