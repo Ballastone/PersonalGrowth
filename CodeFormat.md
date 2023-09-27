@@ -14,7 +14,7 @@ All code format find in book "Clean code" - Martin Fowler;
       private string workspaceAbsolutePath;
       private string filename;
     
-      public TaskModule(string workspaceAbsolutePath, string filename) {
+      public taskModule(string workspaceAbsolutePath, string filename) {
           mySimpleTitle = "Title";
           this.workspaceAbsolutePath = workspaceAbsolutePath;
           this.filename = filename;
